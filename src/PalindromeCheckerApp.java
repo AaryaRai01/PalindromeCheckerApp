@@ -21,10 +21,6 @@ public class PalindromeCheckerApp {
         } else {
             System.out.println("Is it a Palindrome? False");
         }
-
-        // Close scanner
         scanner.close();
-
-
     }
 }
